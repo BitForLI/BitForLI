@@ -12,8 +12,10 @@ I am a Master of Computer Science student at the University of Sydney. I build p
 
 - **[Real-Time CDN Analytics](https://github.com/BitForLI/realtime-cdn-analytics)** — turns out-of-order CDN events into event-time metrics and auditable shadow-routing recommendations.
 - **[Reliable LLM Job Platform](https://github.com/BitForLI/reliable-llm-job-platform)** — keeps long-running LLM jobs durable, observable, testable, and recoverable across failures and deployments.
+- **[AI Customer Support Assistant](https://github.com/BitForLI/ai-customer-support-assistant)** — answers product, order, and policy questions with cited information and hands sensitive requests to a person.
 - **[Telco Churn Lakehouse Analytics](https://github.com/BitForLI/telco-churn-lakehouse)** — converts customer snapshots into governed Delta tables, retention KPIs, and an evidence-based stakeholder brief.
-- **[Fulfilment Optimizer](https://github.com/BitForLI/timefold-quickstarts/tree/codex/fulfilment-optimizer/use-cases/fulfilment-optimizer)** — assigns order lines to fulfilment centres while balancing inventory, capacity, SLAs, delivery cost, and order splitting.
+- **[Adaptive CDN Routing Lab](https://github.com/BitForLI/adaptive-cdn-routing-lab)** — tests DNS-based cache-node selection and recovery under injected faults.
+- **[Order Fulfilment Optimizer](https://github.com/BitForLI/timefold-quickstarts/tree/codex/fulfilment-optimizer/use-cases/fulfilment-optimizer)** — assigns order lines to fulfilment centres while balancing inventory, capacity, SLAs, delivery cost, and order splitting.
 
 I work mainly with Java, Python, TypeScript, C#, Go, SQL, PostgreSQL, AWS, Docker, and Terraform. Across different stacks, I care about the same things: clear product decisions, reproducible tests, useful failure messages, and documentation that helps the next person understand the system.
 
