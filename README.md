@@ -5,8 +5,8 @@ I am a Master of Computer Science student at the University of Sydney. I build p
 ## Featured products
 
 - **[Grocery Ordering Workflow Demo](https://github.com/BitForLI/grocery-ordering-demo)** — an independent portfolio reconstruction, based on workflows I encountered during an internship, that connects checkout with preparation, variable-weight pricing, partial refunds, and fulfilment.
-- **[ListenMoney — Language-Learning Podcast App](https://github.com/BitForLI/language-learning-podcast-app)** — lets learners tap and repeat precisely timed sentences, generate transcripts on device, and translate them offline.
-- **[Pagefold — Local-First Markdown Notes](https://github.com/BitForLI/pagefold-markdown-notes)** — keeps notes as ordinary user-owned files and protects unsaved work when external sync changes the library.
+- **[PodRepeat — Podcast Listening Practice](https://github.com/BitForLI/language-learning-podcast-app)** — lets learners tap and repeat timestamped sentences, return to frequently repeated lines, generate transcripts on device, and translate them offline. A signed Android APK is available from Releases.
+- **[Pagefold — Local-First Markdown Notes](https://github.com/BitForLI/pagefold-markdown-notes)** — keeps notes as ordinary user-owned files, protects unsaved work during external changes, and creates on-demand library backups. A Windows installer is available from Releases.
 
 ## Engineering systems
 
