@@ -1,6 +1,6 @@
 # Reese Lee
 
-I am a Master of Computer Science student at the University of Sydney. I build products across backend, full-stack, data, mobile, and cloud engineering. I am most interested in the point where a useful product meets difficult engineering: payments, background jobs, local-first data, event processing, AI reliability, and failure recovery.
+I am a Master of Computer Science student at the University of Sydney. I mainly build backend and product software. I like projects where the user problem is easy to explain but the implementation still requires careful work with data, state, or failure handling.
 
 ## Featured products
 
@@ -8,15 +8,12 @@ I am a Master of Computer Science student at the University of Sydney. I build p
 - **[PodRepeat — Podcast Listening Practice](https://github.com/BitForLI/language-learning-podcast-app)** — lets learners tap and repeat timestamped sentences, return to frequently repeated lines, generate transcripts on device, and translate them offline. A signed Android APK is available from Releases.
 - **[Pagefold — Local-First Markdown Notes](https://github.com/BitForLI/pagefold-markdown-notes)** — keeps notes as ordinary user-owned files, protects unsaved work during external changes, and creates on-demand library backups. A Windows installer is available from Releases.
 
-## Engineering systems
+## Selected engineering work
 
-- **[Real-Time CDN Analytics](https://github.com/BitForLI/realtime-cdn-analytics)** — turns out-of-order CDN events into event-time metrics and auditable shadow-routing recommendations.
-- **[Reliable LLM Job Platform](https://github.com/BitForLI/reliable-llm-job-platform)** — keeps long-running LLM jobs durable, observable, testable, and recoverable across failures and deployments.
 - **[AI Customer Support Assistant](https://github.com/BitForLI/ai-customer-support-assistant)** — answers product, order, and policy questions with cited information and hands sensitive requests to a person.
 - **[Telco Churn Lakehouse Analytics](https://github.com/BitForLI/telco-churn-lakehouse)** — converts customer snapshots into governed Delta tables, retention KPIs, and an evidence-based stakeholder brief.
-- **[Adaptive CDN Routing Lab](https://github.com/BitForLI/adaptive-cdn-routing-lab)** — tests DNS-based cache-node selection and recovery under injected faults.
 - **[Order Fulfilment Optimizer](https://github.com/BitForLI/timefold-quickstarts/tree/codex/fulfilment-optimizer/use-cases/fulfilment-optimizer)** — assigns order lines to fulfilment centres while balancing inventory, capacity, SLAs, delivery cost, and order splitting.
 
-I work mainly with Java, Python, TypeScript, C#, Go, SQL, PostgreSQL, AWS, Docker, and Terraform. Across different stacks, I care about the same things: clear product decisions, reproducible tests, useful failure messages, and documentation that helps the next person understand the system.
+Across different stacks, I care about clear product decisions, small understandable components, reproducible tests, and useful failure messages.
 
 [LinkedIn](https://www.linkedin.com/in/bitforli) · [Email](mailto:miaomiao.emo@gmail.com)
